@@ -1,0 +1,8 @@
+{
+  "name": "VibeAnalyze",
+  "description": "Instant client-side CSV data visualizer with auto-charting logic",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
