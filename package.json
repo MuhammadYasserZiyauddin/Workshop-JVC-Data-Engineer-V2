@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
+    "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.14",
     "danfojs": "^1.2.0",
     "dotenv": "^17.2.3",
@@ -19,9 +20,10 @@
     "motion": "^12.23.24",
     "papaparse": "^5.5.3",
     "plotly.js-dist-min": "^3.5.1",
-    "react-plotly.js": "^2.6.0",
     "react": "^19.0.1",
-    "react-dom": "^19.0.1"
+    "react-dom": "^19.0.1",
+    "react-markdown": "^10.1.0",
+    "react-plotly.js": "^2.6.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
